@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/trailer-park-serenade/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Trailer Park Serenade](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/trailer-park-serenade/) |
+| **Get License** | [Request Licensing for Trailer Park Serenade](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/trailer-park-serenade/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `218689947fe09fd7c47d2ab33154ad162e8cd8f20eba5cb4f1a9a26609a97d25` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
