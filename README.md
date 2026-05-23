@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/trailer-park-serenade/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Trailer Park Serenade](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/trailer-park-serenade/) |
+| **Get License** | [License this song: Trailer Park Serenade](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/trailer-park-serenade/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> When the neon flickers out across the county line
+> I got nothing on my mind but making you mine
+> Just a dusty road, a porch light, and a midnight breeze
+> Come a little closer, baby, let the world freeze
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
